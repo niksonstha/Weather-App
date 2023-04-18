@@ -32,12 +32,12 @@ body {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  height: 60vh;
+  height: 50vh;
   width: 20%;
   background: #59c173;
   background: -webkit-linear-gradient(to right, #5d26c1, #a17fe0, #59c173);
   background: linear-gradient(to right, #5d26c1, #a17fe0, #59c173);
-  border-radius: 5%;
+  border-radius: 30px;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
     rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
 }
